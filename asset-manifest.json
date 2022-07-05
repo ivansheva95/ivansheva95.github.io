@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19e98cf5.css",
+    "main.js": "/static/js/main.8c483ae7.js",
+    "static/media/work1.png": "/static/media/work1.aae3dc4d419c0130de24.png",
+    "static/media/Front-end_Ivan_Shevchuk.pdf": "/static/media/Front-end_Ivan_Shevchuk.1cf63697c069d1e6bc66.pdf",
+    "static/media/work2.png": "/static/media/work2.d3813e90be92dea78c49.png",
+    "static/media/work3.png": "/static/media/work3.7f2e7cd246640d4e3ed9.png",
+    "static/media/me.jpg": "/static/media/me.19030fa7448b0dcddff9.jpg",
+    "static/media/success.svg": "/static/media/success.be7c5034058e2dc3ad88051af1af3f9f.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.19e98cf5.css",
+    "static/js/main.8c483ae7.js"
+  ]
+}
